@@ -1,6 +1,10 @@
-# Nuxt 3 Minimal Starter
+## Setup
 
-Nuxt3の基礎確認ポートフォリオです。
+# npm
+npm install
+npm run dev
+
+## Nuxt3の基礎確認ポートフォリオです。
 jsonplaceholder(https://jsonplaceholder.typicode.com/users)
 からユーザー一覧を取得し、編集・追加ができます
 
@@ -15,10 +19,5 @@ useFetch
 
 等、他vueの基本を網羅できたかなと思います。
 
-## Setup
-
-# npm
-npm install
-npm run dev
 
 
