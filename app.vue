@@ -1,5 +1,5 @@
 <template>
-  <div>
-    <v-icon>mdi-table-arrow-up</v-icon>
-  </div>
+  <NuxtLayout>
+    <NuxtPage />
+  </NuxtLayout>
 </template>
